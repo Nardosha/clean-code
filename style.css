@@ -125,7 +125,7 @@ body {
 }
 
 /* Completed */
-.done-block__list#completed-tasks .list-item__label {
+.done-block__list#done .list-item__label {
   text-decoration: line-through;
   color: #888;
 }
